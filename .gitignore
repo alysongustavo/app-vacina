@@ -5,3 +5,4 @@
 /phpunit.xml
 /.phpunit.cache
 /vendor/
+.idea/
